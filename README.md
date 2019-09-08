@@ -1,4 +1,4 @@
-# Assignment_1
+# Assignment_1 of COMP 6900
 The First Assignment of COMP 6900 By Qasem Abu Al-Haija
 To run any of these programs:
 
